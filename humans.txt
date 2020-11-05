@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pavel Nikitin pavel.svetlogorskiy@yandex.ru
 
 # THANKS
 
-    <name>
+    Me
 
 # TECHNOLOGY COLOPHON
 
