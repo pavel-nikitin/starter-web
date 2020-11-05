@@ -16,6 +16,7 @@ Simple Web Project.
 Deployment can be made on any server or local system.
 
 ## How To Contribute
+Please fork this repository and then issue Pull Request for review.
 
 ### Copyright
 All rights reserved by my 2020
