@@ -16,3 +16,6 @@ Simple Web Project.
 Deployment can be made on any server or local system.
 
 ## How To Contribute
+
+### Copyright
+All rights reserved by my 2020
