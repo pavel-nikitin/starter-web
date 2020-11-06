@@ -20,4 +20,4 @@ Deployment can be made on any server or local system.
 Please fork this repository and then issue Pull Request for review.
 
 ### Copyright
-All rights reserved by my 2020
+All rights reserved by my 2020 changes after stash
