@@ -2,7 +2,7 @@
 
 This is a simple web project for showing how 
 to use Git and GitHub together.
-Adding a line for rebasing example
+Adding a line for rebasing example, then more changes after rebase in myfeature.
 
 ## Introduction
 This is example is to show different parts of the Git repository
